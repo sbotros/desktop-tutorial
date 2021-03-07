@@ -1,0 +1,43 @@
+{
+  "autonomous_databases": [],
+  "block_storage_volumes": [],
+  "compartments": [
+    {
+      "compartment_id": null,
+      "defined_tags": {},
+      "definition": "",
+      "description": "HJ-comp001",
+      "display_name": "HJ-comp001",
+      "freeform_tags": {},
+      "id": "okit.compartment.03eb1687-e824-4f28-b632-c132ef80112f"
+    }
+  ],
+  "created": "2021-3-6 21:22:18",
+  "customer_premise_equipments": [],
+  "database_systems": [],
+  "description": "# Description\n__Created 2021-3-6 21:22:18__\n\n--------------------------------------\n\n",
+  "dynamic_routing_gateways": [],
+  "fast_connects": [],
+  "file_storage_systems": [],
+  "instance_pools": [],
+  "instances": [],
+  "internet_gateways": [],
+  "ipsec_connections": [],
+  "load_balancers": [],
+  "local_peering_gateways": [],
+  "mysql_database_systems": [],
+  "nat_gateways": [],
+  "network_security_groups": [],
+  "object_storage_buckets": [],
+  "oke_clusters": [],
+  "okit_version": "0.18.0",
+  "remote_peering_connections": [],
+  "route_tables": [],
+  "security_lists": [],
+  "service_gateways": [],
+  "subnets": [],
+  "template_type": "Git",
+  "title": "OKIT OCI Visualiser Json",
+  "updated": "2021-3-6 21:23:53",
+  "virtual_cloud_networks": []
+}
